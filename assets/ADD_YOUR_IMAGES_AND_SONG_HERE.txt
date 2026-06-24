@@ -1,0 +1,1 @@
+Replace background.jpg, profile.jpg, project1.jpg, project2.jpg, project3.jpg and song.mp3 with your actual files.
